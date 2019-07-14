@@ -2,4 +2,4 @@
 
 Traffic Signs Recognition with Tensorflow
 
-This is jupyter notebook assignment for traffic signs recognition using Tensorflow.
+You can find on notebook file how to training machine learning to recognize traffic signs using Tensorflow.
